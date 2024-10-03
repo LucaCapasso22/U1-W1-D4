@@ -2,6 +2,9 @@
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  background-image: url(/assets/img/sfondo.png);
+}
 header {
   width: 400px;
   height: 230px;
